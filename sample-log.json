@@ -1,0 +1,18 @@
+{
+  "message": "Belajar PHP Logging",
+  "context": {
+    "username": "fahmi"
+  },
+  "level": 200,
+  "level_name": "INFO",
+  "channel": "fahmi_arzalega\\belajar\\PHP\\MVC\\FormatterTest",
+  "datetime": "2024-06-30T07:24:11.912213+00:00",
+  "extra": {
+    "hostname": "LAPTOP-SAJJSN4L",
+    "memory_usage": "6 MB",
+    "git": {
+      "branch": "master",
+      "commit": "b2ddba9d4adeed07112442fcbd00b458a094f0c4"
+    }
+  }
+}
