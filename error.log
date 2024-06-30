@@ -1,0 +1,4 @@
+[2024-06-29T14:17:40.546649+00:00] fahmi_arzalega\belajar\PHP\MVC\LevelTest.ERROR: this is error [] []
+[2024-06-29T14:17:40.547340+00:00] fahmi_arzalega\belajar\PHP\MVC\LevelTest.CRITICAL: this is critical [] []
+[2024-06-29T14:17:40.547473+00:00] fahmi_arzalega\belajar\PHP\MVC\LevelTest.ALERT: this is alert [] []
+[2024-06-29T14:17:40.547550+00:00] fahmi_arzalega\belajar\PHP\MVC\LevelTest.EMERGENCY: this is emergency [] []
